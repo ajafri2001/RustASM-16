@@ -1,0 +1,9 @@
+[package]
+name = "RustASM-16"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+byteorder = "1.4.3"
+termios = "0.3.1"
+structopt = "0.3.22"
